@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Jinghan Yang"
+  avatar           : "../images/profile.png"
+  name             : "Jinghan Yang (杨婧涵)"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Peking University Health Science Center"
   location         : "Beijing China"
-  employer         : "Peking University Health Science Center"
+  employer         : 
   uri              : "https://JinghanYang127.github.io"
   email            : "2110305213@stu.pku.edu.cn" 
 
