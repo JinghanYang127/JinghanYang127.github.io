@@ -11,5 +11,5 @@ I am a student of eight-year integrated undergraduate and doctoral program in Ba
 
 You can find my CV here: [Jinghan Yang's Curriculum Vitae](../assets/Resume.pdf).
 
-[Email](mailto:2110305213@stu.pku.edu.cn) / [Github](https://github.com/xxx) / [Wechat](../images/wechat.jpg) 
+[Email](mailto:2110305213@stu.pku.edu.cn) / [Github](https://github.com/JinghanYang127.github.io) / [Wechat](../images/wechat.JPG) 
 
