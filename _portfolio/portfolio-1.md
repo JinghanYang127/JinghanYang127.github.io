@@ -1,5 +1,4 @@
 ---
----
 title: "医疗数据分析与建模项目"
 collection: portfolio
 type: "Data Analysis"
