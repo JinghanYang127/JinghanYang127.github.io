@@ -106,7 +106,9 @@ data_clustering = data_clean[features]
 ```
 
 ### 分析结果 (Results & Analysis)
-![直方图](/images/histograms.png)
+
+![直方图](https://raw.githubusercontent.com/JinghanYang127/JinghanYang127.github.io/images/histograms.png)
+
 直方图展示了各个特征的数据分布情况，通过观察可以了解数据的集中趋势和离散程度。
 
 ![箱线图](/images/boxplots.png)
