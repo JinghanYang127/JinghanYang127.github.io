@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Jinghan Yang",
+    "email": "2110305213@stu.pku.edu.cn",
+    "phone": "+86 15101059440",
+    "website": "https://jinghanyang127.github.io/",
+    "summary": "Currently study at Peking University Health Science Center. ",
     "location": {
       "address": "",
       "postalCode": "",
@@ -33,32 +33,14 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Peking University Health Science Center",
+      "area": "Pathophysiology",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "endDate": "2029",
+      "gpa": 3.64,
       "courses": []
     },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
   ],
   "skills": [],
   "languages": [],
