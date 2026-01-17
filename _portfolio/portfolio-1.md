@@ -2,11 +2,11 @@
 title: "医疗数据分析与建模项目"
 collection: portfolio
 type: "Data Analysis"
-permalink: /portfolio/portfolio-1
+permalink: /portfolio/medical-data-analysis
 date: 2026-01-17
 excerpt: "本项目对医疗数据进行了全面分析，包括数据清洗、可视化、线性回归分析，并用逻辑回归、随机森林、支持向量机进行预测建模，还开展了聚类分析。"
 header:
-  teaser: /images/histograms.png
+  teaser: /images/portfolio/medical-data-analysis/histograms.png
 tags:
   - 医疗数据
   - 数据分析
@@ -107,7 +107,7 @@ data_clustering = data_clean[features]
 
 ### 分析结果 (Results & Analysis)
 
-![直方图](https://raw.githubusercontent.com/JinghanYang127/JinghanYang127.github.io/images/histograms.png)
+![直方图](/images/portfolio/medical-data-analysis/histograms.png)
 
 直方图展示了各个特征的数据分布情况，通过观察可以了解数据的集中趋势和离散程度。
 
