@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: (../images/dl.jpg)
+excerpt: ![dl.jpg](../images/dl.jpg)
 collection: portfolio
 ---
 
