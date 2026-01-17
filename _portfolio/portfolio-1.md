@@ -2,7 +2,7 @@
 title: "医疗数据分析与建模项目"
 collection: portfolio
 type: "Data Analysis"
-permalink: /portfolio/medical-data-analysis
+permalink: /portfolio/portfolio-1
 date: 2026-01-17
 excerpt: "本项目对医疗数据进行了全面分析，包括数据清洗、可视化、线性回归分析，并用逻辑回归、随机森林、支持向量机进行预测建模，还开展了聚类分析。"
 header:
